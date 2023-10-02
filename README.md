@@ -1,5 +1,5 @@
 # hyprland-config
-Edited config from other project's like https://github.com/SolDoesTech/HyprV4 etc.
+Edited config from other project's like https://github.com/SolDoesTech/HyprV4, https://github.com/tempestian/Hypr-dots etc.
 
 ![image](https://github.com/Efeisot/hyprland-config/assets/104940108/dee75b73-413d-4564-928f-0921dfc9716f)
 
